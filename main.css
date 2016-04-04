@@ -139,3 +139,20 @@
 
 
 /* comment stream */
+
+.img1 {
+   padding-right:10px ;
+}
+
+.textright {
+    padding-left: 90px;
+}
+
+.textright2 {
+    padding-left: 40px;
+}
+
+.time {
+    font-size: 11px;
+    color: #D3D3D3;
+}
